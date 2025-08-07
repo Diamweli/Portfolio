@@ -36,15 +36,11 @@ To run this project locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Diamweli/your-repo-name.git](https://github.com/Diamweli/your-repo-name.git)
+    git clone [https://github.com/Diamweli/Portfolio.git]([https://github.com/Diamweli/your-repo-name.git](https://github.com/Diamweli/Portfolio.git))
     ```
 
-2.  **Navigate to the project directory:**
-    ```bash
-    cd Portfolio
-    ```
 
-3.  **Open the `index.html` file in your browser.**
+2.  **Open the `index.html` file in your browser.**
     
     For the best experience, it is recommended to use a local server to avoid potential CORS issues with file loading. If you have VS Code, you can use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
