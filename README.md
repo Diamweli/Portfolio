@@ -1,6 +1,7 @@
 # My 3D Interactive Portfolio - Diamweli Sankare
 
-![Screenshot of the portfolio website hero section](images/votre-screenshot.jpg)
+<img width="1592" height="831" alt="image" src="https://github.com/user-attachments/assets/784cd876-c797-4cd7-8a43-cc2221e50841" />
+
 
 This repository contains the source code for my personal portfolio website. It's a fully responsive, futuristic-themed site designed to showcase my skills and projects as an AI Engineer and Data Scientist. The main feature is a 3D interactive hero section built with **Three.js**, complemented by dynamic animations and interactive 3D skill clouds.
 
